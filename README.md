@@ -26,9 +26,9 @@ Description: A simple implementation of the classic Rock, Paper, Scissors game.
 
 Usage:
 
-Run 'Rock Paper Scissors.py'.
-Enter your choice (rock, paper, or scissors) when prompted.
-The computer will randomly choose its option, and the winner is determined.
+Run 'Rock Paper Scissors.py'. <br>
+Enter your choice (rock, paper, or scissors) when prompted. <br>
+The computer will randomly choose its option, and the winner is determined. 
 
 # Slot Machine
 *Under Development
@@ -37,8 +37,8 @@ Description: A virtual slot machine game in Python. Spin the reels and try to wi
 
 Usage:
 
-Run 'Slot machine.py'.
-Choose the number of lines and your bet.
+Run 'Slot machine.py'. <br>
+Choose the number of lines and your bet. <br>
 Spin the slot machine and see if you win!
 
 # Tic Tac Toe
@@ -48,6 +48,6 @@ Description: Play the classic Tic Tac Toe game against a friend in Python.
 
 Usage:
 
-Run 'TicTacToe.py'.
-Take turns to place your "X" or "O" on the board.
+Run 'TicTacToe.py'. <br>
+Take turns to place your "X" or "O" on the board. <br>
  Win by forming a line of three of your symbols horizontally, vertically, or diagonally.
