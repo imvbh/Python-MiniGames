@@ -6,8 +6,8 @@ Description: A Python-based guessing game where you try to guess a randomly gene
 
 Usage:
 
-Run 'Guess The Number.py'.
-Follow the on-screen instructions to guess the number.
+Run 'Guess The Number.py'. <br>
+Follow the on-screen instructions to guess the number. <br>
 You'll receive hints to guide you.
 
 # Hangman
@@ -16,8 +16,8 @@ Description: Play the classic word-guessing game, Hangman, in Python.
 
 Usage:
 
-Run 'Hangman.py'.
-The computer selects a random word, and you have to guess it one letter at a time.
+Run 'Hangman.py'. <br>
+The computer selects a random word, and you have to guess it one letter at a time. <br>
 You have a limited number of guesses to complete the word.
 
 # Rock Paper Scissors
